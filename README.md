@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/Anshin00/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://heroku.com/deploy?template=https://github.com/Anshin00/Adv-Auto-Filter-Bot-V2">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
