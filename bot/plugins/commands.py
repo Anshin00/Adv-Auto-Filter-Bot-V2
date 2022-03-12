@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/MVWORLDSPK'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/c/1782550546/2')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/MVWORLDSPK')
     ],[
